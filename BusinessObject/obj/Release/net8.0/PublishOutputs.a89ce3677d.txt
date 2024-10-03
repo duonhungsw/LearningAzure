@@ -1,0 +1,13 @@
+E:\DotNet\Demo\AzureDB\bin\Publish\BusinessObject.dll
+E:\DotNet\Demo\AzureDB\bin\Publish\BusinessObject.deps.json
+E:\DotNet\Demo\AzureDB\bin\Publish\BusinessObject.pdb
+E:\DotNet\Demo\AzureDB\bin\Publish\Microsoft.EntityFrameworkCore.dll
+E:\DotNet\Demo\AzureDB\bin\Publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DotNet\Demo\AzureDB\bin\Publish\Microsoft.Extensions.Caching.Abstractions.dll
+E:\DotNet\Demo\AzureDB\bin\Publish\Microsoft.Extensions.Caching.Memory.dll
+E:\DotNet\Demo\AzureDB\bin\Publish\Microsoft.Extensions.DependencyInjection.dll
+E:\DotNet\Demo\AzureDB\bin\Publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\DotNet\Demo\AzureDB\bin\Publish\Microsoft.Extensions.Logging.dll
+E:\DotNet\Demo\AzureDB\bin\Publish\Microsoft.Extensions.Logging.Abstractions.dll
+E:\DotNet\Demo\AzureDB\bin\Publish\Microsoft.Extensions.Options.dll
+E:\DotNet\Demo\AzureDB\bin\Publish\Microsoft.Extensions.Primitives.dll
