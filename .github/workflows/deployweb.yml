@@ -21,6 +21,8 @@ jobs:
         run: dotnet restore ./AzureDB/AzureDB.csproj
       - name: Build
         run: dotnet build ./AzureDB/AzureDB.csproj --configuration Release --no-restore
-        
+      # publish
+      - name: Publish
+        run: dotnet publish ./AzureDB/AzureDB.csproj --configuration Release --output ./publish
+ 
 
-  
