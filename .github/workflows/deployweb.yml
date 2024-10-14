@@ -1,0 +1,26 @@
+name: Deploy AzureDB with GitHub Pages dependencies preinstalled
+
+on:
+  # Runs on pushes targeting the default branch
+  push:
+    branches: ["main"]
+
+  workflow_dispatch:
+
+jobs:
+  # Build job
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup .NET Core
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 8.0.x
+      - name: Install dependencies
+        run: dotnet restore ./AzureDB/AzureDB.csproj
+      - name: Build
+        run: dotnet build ./AzureDB/AzureDB.csproj --configuration Release --no-restore
+        
+
+  
