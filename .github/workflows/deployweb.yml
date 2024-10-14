@@ -7,6 +7,9 @@ on:
 
   workflow_dispatch:
 
+env:
+  AZURE_WEBAPP_NAME: "FurnitureShop"
+
 jobs:
   # Build job
   build:
@@ -24,5 +27,12 @@ jobs:
       # publish
       - name: Publish
         run: dotnet publish ./AzureDB/AzureDB.csproj --configuration Release --output ./publish
+      # deploy
+      - name: Deloy to Azure web App
+        uses: azure/webapp-deploy@v3
+        with: 
+          app-name: ${{ env.AZURE_WEBAPP_NAME }}
+          publish-name: ${{ secrets.WEB_PUBLISH_SECRET }}
+          package: ./publish
  
 
