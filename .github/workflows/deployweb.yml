@@ -31,7 +31,11 @@ jobs:
       # publish
       - name: Publish
         run: dotnet publish ./AzureDB/AzureDB.csproj --configuration Release --output ./publish
-
+      # Azure login step
+      - name: Azure Login
+        uses: azure/login@v1
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
       # deploy
       - name: Deploy to Azure web App
         uses: azure/webapps-deploy@v1
