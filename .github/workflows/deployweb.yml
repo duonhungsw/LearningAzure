@@ -16,23 +16,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - name: Setup .NET Core
         uses: actions/setup-dotnet@v4
         with:
           dotnet-version: 8.0.x
+
       - name: Install dependencies
         run: dotnet restore ./AzureDB/AzureDB.csproj
+
       - name: Build
         run: dotnet build ./AzureDB/AzureDB.csproj --configuration Release --no-restore
+
       # publish
       - name: Publish
         run: dotnet publish ./AzureDB/AzureDB.csproj --configuration Release --output ./publish
-      # deploy
-      - name: Deloy to Azure web App
-        uses: azure/webapp-deploy@v3
-        with: 
-          app-name: ${{ env.AZURE_WEBAPP_NAME }}
-          publish-name: ${{ secrets.WEB_PUBLISH_SECRET }}
-          package: ./publish
- 
 
+      # deploy
+      - name: Deploy to Azure web App
+        uses: azure/webapps-deploy@v1
+        with:
+          app-name: ${{ env.AZURE_WEBAPP_NAME }}
+          publish-profile: ${{ secrets.WEB_PUBLISH_SERCET }}
+          package: ./publish
