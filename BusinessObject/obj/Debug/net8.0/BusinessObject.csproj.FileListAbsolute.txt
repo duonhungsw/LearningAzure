@@ -6,6 +6,7 @@ E:\DotNet\Demo\AzureDB\BusinessObject\obj\Debug\net8.0\BusinessObject.GeneratedM
 E:\DotNet\Demo\AzureDB\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfoInputs.cache
 E:\DotNet\Demo\AzureDB\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfo.cs
 E:\DotNet\Demo\AzureDB\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.CoreCompileInputs.cache
+E:\DotNet\Demo\AzureDB\BusinessObject\obj\Debug\net8.0\BusinessObject.sourcelink.json
 E:\DotNet\Demo\AzureDB\BusinessObject\obj\Debug\net8.0\BusinessObject.dll
 E:\DotNet\Demo\AzureDB\BusinessObject\obj\Debug\net8.0\refint\BusinessObject.dll
 E:\DotNet\Demo\AzureDB\BusinessObject\obj\Debug\net8.0\BusinessObject.pdb

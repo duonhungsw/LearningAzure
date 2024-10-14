@@ -14,6 +14,7 @@ E:\DotNet\Demo\AzureDB\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEd
 E:\DotNet\Demo\AzureDB\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
 E:\DotNet\Demo\AzureDB\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
 E:\DotNet\Demo\AzureDB\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\DotNet\Demo\AzureDB\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
 E:\DotNet\Demo\AzureDB\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
 E:\DotNet\Demo\AzureDB\DataAccess\obj\Debug\net8.0\DataAccess.dll
 E:\DotNet\Demo\AzureDB\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll

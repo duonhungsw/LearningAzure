@@ -11,7 +11,12 @@ E:\DotNet\Demo\AzureDB\AzureDB\bin\Publish\AzureDB.deps.json
 E:\DotNet\Demo\AzureDB\AzureDB\bin\Publish\AzureDB.runtimeconfig.json
 E:\DotNet\Demo\AzureDB\AzureDB\bin\Publish\AzureDB.pdb
 E:\DotNet\Demo\AzureDB\AzureDB\bin\Publish\Azure.Core.dll
+E:\DotNet\Demo\AzureDB\AzureDB\bin\Publish\Azure.Data.AppConfiguration.dll
 E:\DotNet\Demo\AzureDB\AzureDB\bin\Publish\Azure.Identity.dll
+E:\DotNet\Demo\AzureDB\AzureDB\bin\Publish\Azure.Messaging.EventGrid.dll
+E:\DotNet\Demo\AzureDB\AzureDB\bin\Publish\Azure.Security.KeyVault.Secrets.dll
+E:\DotNet\Demo\AzureDB\AzureDB\bin\Publish\DnsClient.dll
+E:\DotNet\Demo\AzureDB\AzureDB\bin\Publish\Microsoft.Azure.AppConfiguration.AspNetCore.dll
 E:\DotNet\Demo\AzureDB\AzureDB\bin\Publish\Microsoft.Azure.Cosmos.Client.dll
 E:\DotNet\Demo\AzureDB\AzureDB\bin\Publish\Microsoft.Azure.Cosmos.Core.dll
 E:\DotNet\Demo\AzureDB\AzureDB\bin\Publish\Microsoft.Azure.Cosmos.Direct.dll
@@ -23,6 +28,7 @@ E:\DotNet\Demo\AzureDB\AzureDB\bin\Publish\Microsoft.EntityFrameworkCore.dll
 E:\DotNet\Demo\AzureDB\AzureDB\bin\Publish\Microsoft.EntityFrameworkCore.Abstractions.dll
 E:\DotNet\Demo\AzureDB\AzureDB\bin\Publish\Microsoft.EntityFrameworkCore.Relational.dll
 E:\DotNet\Demo\AzureDB\AzureDB\bin\Publish\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\DotNet\Demo\AzureDB\AzureDB\bin\Publish\Microsoft.Extensions.Configuration.AzureAppConfiguration.dll
 E:\DotNet\Demo\AzureDB\AzureDB\bin\Publish\Microsoft.Identity.Client.dll
 E:\DotNet\Demo\AzureDB\AzureDB\bin\Publish\Microsoft.Identity.Client.Extensions.Msal.dll
 E:\DotNet\Demo\AzureDB\AzureDB\bin\Publish\Microsoft.IdentityModel.Abstractions.dll

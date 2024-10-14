@@ -2,6 +2,7 @@
 using DataAccess;
 using DataAccess.DAO;
 using Microsoft.EntityFrameworkCore;
+using System.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,9 +14,9 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("AZURE_SQL_CONNECTIONSTRING"));
 });
+//builder.Configuration.AddAzureAppConfiguration("Endpoint=https://applicationconfig1000.azconfig.io;Id=YvxB;Secret=FWd2wsgezHCDUsiu1ypsgOByqAtCc5rpFy3dbY2TZr6WrQXDSbL9JQQJ99AJACqBBLy5v4mVAAABAZACnKji");
 
 builder.Services.AddScoped(typeof(AppDbContext));
-
 var app = builder.Build();
 
 

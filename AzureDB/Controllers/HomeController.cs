@@ -1,4 +1,5 @@
 using AzureDB.Models;
+using BusinessObject.Models;
 using DataAccess;
 using DataAccess.DAO;
 using Microsoft.AspNetCore.Mvc;
@@ -19,6 +20,20 @@ namespace AzureDB.Controllers
         {
             var list = _appDbContext.Courses.ToList();
             return View(list);
+        }
+
+        public ActionResult Create()
+        {
+            return View();
+        }
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Create(Course course)
+        {
+            _appDbContext.Courses.Add(course);
+            _appDbContext.SaveChanges();
+
+            return View(course);
         }
 
         public IActionResult Privacy()

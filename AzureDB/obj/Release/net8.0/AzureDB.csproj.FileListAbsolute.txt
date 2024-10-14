@@ -90,3 +90,10 @@ E:\DotNet\Demo\AzureDB\AzureDB\obj\Release\net8.0\refint\AzureDB.dll
 E:\DotNet\Demo\AzureDB\AzureDB\obj\Release\net8.0\AzureDB.pdb
 E:\DotNet\Demo\AzureDB\AzureDB\obj\Release\net8.0\AzureDB.genruntimeconfig.cache
 E:\DotNet\Demo\AzureDB\AzureDB\obj\Release\net8.0\ref\AzureDB.dll
+E:\DotNet\Demo\AzureDB\AzureDB\bin\Release\net8.0\Azure.Data.AppConfiguration.dll
+E:\DotNet\Demo\AzureDB\AzureDB\bin\Release\net8.0\Azure.Messaging.EventGrid.dll
+E:\DotNet\Demo\AzureDB\AzureDB\bin\Release\net8.0\Azure.Security.KeyVault.Secrets.dll
+E:\DotNet\Demo\AzureDB\AzureDB\bin\Release\net8.0\DnsClient.dll
+E:\DotNet\Demo\AzureDB\AzureDB\bin\Release\net8.0\Microsoft.Azure.AppConfiguration.AspNetCore.dll
+E:\DotNet\Demo\AzureDB\AzureDB\bin\Release\net8.0\Microsoft.Extensions.Configuration.AzureAppConfiguration.dll
+E:\DotNet\Demo\AzureDB\AzureDB\obj\Release\net8.0\AzureDB.sourcelink.json

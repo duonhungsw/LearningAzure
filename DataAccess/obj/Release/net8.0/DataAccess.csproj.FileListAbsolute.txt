@@ -20,3 +20,4 @@ E:\DotNet\Demo\AzureDB\DataAccess\obj\Release\net8.0\refint\DataAccess.dll
 E:\DotNet\Demo\AzureDB\DataAccess\obj\Release\net8.0\DataAccess.pdb
 E:\DotNet\Demo\AzureDB\DataAccess\obj\Release\net8.0\DataAccess.genruntimeconfig.cache
 E:\DotNet\Demo\AzureDB\DataAccess\obj\Release\net8.0\ref\DataAccess.dll
+E:\DotNet\Demo\AzureDB\DataAccess\obj\Release\net8.0\DataAccess.sourcelink.json

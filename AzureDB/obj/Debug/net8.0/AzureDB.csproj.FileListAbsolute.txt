@@ -12,7 +12,12 @@ E:\DotNet\Demo\AzureDB\AzureDB\bin\Debug\net8.0\AzureDB.runtimeconfig.json
 E:\DotNet\Demo\AzureDB\AzureDB\bin\Debug\net8.0\AzureDB.dll
 E:\DotNet\Demo\AzureDB\AzureDB\bin\Debug\net8.0\AzureDB.pdb
 E:\DotNet\Demo\AzureDB\AzureDB\bin\Debug\net8.0\Azure.Core.dll
+E:\DotNet\Demo\AzureDB\AzureDB\bin\Debug\net8.0\Azure.Data.AppConfiguration.dll
 E:\DotNet\Demo\AzureDB\AzureDB\bin\Debug\net8.0\Azure.Identity.dll
+E:\DotNet\Demo\AzureDB\AzureDB\bin\Debug\net8.0\Azure.Messaging.EventGrid.dll
+E:\DotNet\Demo\AzureDB\AzureDB\bin\Debug\net8.0\Azure.Security.KeyVault.Secrets.dll
+E:\DotNet\Demo\AzureDB\AzureDB\bin\Debug\net8.0\DnsClient.dll
+E:\DotNet\Demo\AzureDB\AzureDB\bin\Debug\net8.0\Microsoft.Azure.AppConfiguration.AspNetCore.dll
 E:\DotNet\Demo\AzureDB\AzureDB\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Client.dll
 E:\DotNet\Demo\AzureDB\AzureDB\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Core.dll
 E:\DotNet\Demo\AzureDB\AzureDB\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Direct.dll
@@ -24,6 +29,7 @@ E:\DotNet\Demo\AzureDB\AzureDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dl
 E:\DotNet\Demo\AzureDB\AzureDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 E:\DotNet\Demo\AzureDB\AzureDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 E:\DotNet\Demo\AzureDB\AzureDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\DotNet\Demo\AzureDB\AzureDB\bin\Debug\net8.0\Microsoft.Extensions.Configuration.AzureAppConfiguration.dll
 E:\DotNet\Demo\AzureDB\AzureDB\bin\Debug\net8.0\Microsoft.Identity.Client.dll
 E:\DotNet\Demo\AzureDB\AzureDB\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
 E:\DotNet\Demo\AzureDB\AzureDB\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
@@ -74,6 +80,7 @@ E:\DotNet\Demo\AzureDB\AzureDB\obj\Debug\net8.0\AzureDB.csproj.CoreCompileInputs
 E:\DotNet\Demo\AzureDB\AzureDB\obj\Debug\net8.0\AzureDB.MvcApplicationPartsAssemblyInfo.cache
 E:\DotNet\Demo\AzureDB\AzureDB\obj\Debug\net8.0\AzureDB.RazorAssemblyInfo.cache
 E:\DotNet\Demo\AzureDB\AzureDB\obj\Debug\net8.0\AzureDB.RazorAssemblyInfo.cs
+E:\DotNet\Demo\AzureDB\AzureDB\obj\Debug\net8.0\AzureDB.sourcelink.json
 E:\DotNet\Demo\AzureDB\AzureDB\obj\Debug\net8.0\staticwebassets.build.json
 E:\DotNet\Demo\AzureDB\AzureDB\obj\Debug\net8.0\staticwebassets.development.json
 E:\DotNet\Demo\AzureDB\AzureDB\obj\Debug\net8.0\staticwebassets\msbuild.AzureDB.Microsoft.AspNetCore.StaticWebAssets.props
